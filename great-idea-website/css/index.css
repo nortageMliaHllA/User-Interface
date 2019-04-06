@@ -90,13 +90,14 @@ header nav a {
 }
 
 .cta {
-	margin-top: 100px;
+	margin-top: 150px;
 	margin-bottom: 50px; 
 	display: flex;
 }
 
 .cta-text {
 	width: 880px;
+	padding: 30px;
 }
 
 .cta-text h1.heading {
